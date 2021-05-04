@@ -1,5 +1,6 @@
 # Vincenzo Mezzio ISI 300 Car Collision Rates Project
 
+# OUTDATED FILE, CREATED PRRIOR TO THE MERGE FILE
 #loading our data
 import pandas as pd
 signal = pd.read_csv('DOT_Street_Lights_and_Traiffc_Signals.csv')
