@@ -19,10 +19,10 @@ Graph of average wind speeds\
 ![Average Wind Speeds](/images/avgWindSpeeds.png)
 
 Updated graph of humidity\
-![Updated Humidity](/images/theHumidity.png)
+![Updated Humidity](/images/theHumidity.PNG)
 
 Updated graph of temperature\
-![Updated Temperature](/images/theTemperature.png)
+![Updated Temperature](/images/theTemperature.PNG)
 
 Updated graph of wind speeds\
-![Updated Wind Speeds](/images/theWindSpeed.png)
+![Updated Wind Speeds](/images/theWindSpeed.PNG)
